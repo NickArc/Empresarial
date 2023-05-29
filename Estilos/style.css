@@ -117,7 +117,7 @@ p {
 @keyframes animate {
   0%,
   100% {
-    background-image: url("/Imagenes/Parcial2_Sebastian_Lamprea_Trim.gif");
+    background-image: url(https://github.com/NickArc/Empresarial/blob/master/Imagenes/Parcial2_Sebastian_Lamprea_Trim.gif);
   }
   25% {
     background-image: url("/Imagenes/Dona-Azul.gif");
