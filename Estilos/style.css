@@ -117,16 +117,16 @@ p {
 @keyframes animate {
   0%,
   100% {
-    background-image: "/Imagenes/Parcial2_Sebastian_Lamprea_Trim.gif";
+    background-image: url("../Imagenes/Parcial2_Sebastian_Lamprea_Trim.gif");
   }
   25% {
-    background-image: "/Imagenes/Dona-Azul.gif";
+    background-image: url("../Imagenes/Dona-Azul.gif");
   }
   50% {
-    background-image: "/Imagenes/Brujula1.gif";
+    background-image: url("../Imagenes/Brujula1.gif");
   }
   75% {
-    background-image: "/Imagenes/CameraMapping.gif";
+    background-image: url("../Imagenes/CameraMapping.gif");
   }
 }
 /*Slider Portafolio*/
